@@ -19,8 +19,6 @@ Do not lose focus of your final goal and your reason. Life can get hard, and you
 _Do **not** compare yourself to others. You are exactly where you need to be._
 
 #### References
-1. Growth Mindset
-(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-2. Mastering Markdown
-(https://guides.github.com/features/mastering-markdown/)
+1. [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 These are my reading notes
