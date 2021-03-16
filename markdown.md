@@ -26,6 +26,6 @@ random text here to display
 1. List Item 1
 2. List Item 2
 
-'''
+```
 var a = 15
-'''
+```
