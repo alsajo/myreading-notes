@@ -1,12 +1,12 @@
 ## Alexis's Growth Mindset
 
-#### Step 1
+### Step 1
 Do not quit. Learn to take a step back, breathe, and reassess the problem if you cannot find an immediate solution.
 
-#### Step 2
+### Step 2
 Mistakes are just opportunities to learn. If you let mistakes dictate where you are going then
 
-#### Step 3
+### Step 3
 Do not lose focus of your final goal and your reason. Life can get hard, and you can feel like you do not want to continue. You may feel as though what you have learned is not absorbing in your brain; however, if you keep working with it you will see an improvement.
 
 
@@ -18,8 +18,9 @@ Do not lose focus of your final goal and your reason. Life can get hard, and you
 - [x] Pos+ Neg- Pos+
 _Do **not** compare yourself to others. You are exactly where you need to be._
 
-Growth Mindset
+####References
+1. Growth Mindset
 (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-Mastering Markdown
+2. Mastering Markdown
 (https://guides.github.com/features/mastering-markdown/)
 These are my reading notes
