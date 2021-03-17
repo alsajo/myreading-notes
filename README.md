@@ -25,4 +25,4 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 1. [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-####March 16, 2021
+#### March 16, 2021
