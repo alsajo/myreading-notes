@@ -16,6 +16,7 @@ Do not lose focus of your final goal and your reason. Life can get hard, and you
 - [x] In the face of adversity keep pushing.
 - [x] Learn from your mistakes
 - [x] Pos+ Neg- Pos+
+- [ ] 
 _Do **not** compare yourself to others. You are exactly where you need to be._
 
 #### References
