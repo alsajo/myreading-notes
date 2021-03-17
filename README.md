@@ -1,3 +1,5 @@
+# Reading Notes
+#### March 15, 2021
 ## Alexis's Growth Mindset
 
 ### Step 1
@@ -22,4 +24,5 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 #### References
 1. [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-These are my reading notes
+
+####March 16, 2021
