@@ -26,11 +26,12 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 #### *March 16, 2021*
-### What is a Text Editor
+### What is a Text Editor?
 - A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site
 #### Important features of your text editor
 - code completion
 - syntax highlighting
+- live previews of code
 - variety of themes (to reduce eye strain and fatigue) 
 - the ability to choose from a healthy selection of extensions available when you need them
 - ability to get help and research common questions (Notepad++)
