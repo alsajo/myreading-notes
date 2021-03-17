@@ -54,3 +54,8 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 
 #### References
 1. [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+# Cheat Sheet
+- [Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
