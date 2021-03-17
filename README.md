@@ -1,5 +1,5 @@
 # Reading Notes
-#### March 15, 2021
+#### *March 15, 2021*
 #### Alexis's Growth Mindset
 
 #### Step 1
@@ -25,7 +25,7 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 1. [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-#### March 16, 2021
+#### *March 16, 2021*
 ### What is a Text Editor
 - A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site
 #### Important features of your text editor
