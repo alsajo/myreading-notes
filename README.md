@@ -35,6 +35,7 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 - variety of themes (to reduce eye strain and fatigue) 
 - the ability to choose from a healthy selection of extensions available when you need them
 - ability to get help and research common questions (Notepad++)
+
 ### Types of Text Editors
 1. Notepad++ (windows Download)
 2. Text Wrangler (Mac Download)
@@ -45,6 +46,7 @@ _Do **not** compare yourself to others. You are exactly where you need to be._
 7. Atom
 8. Brackets
 9. Sublime Text
+
 ### Classes of Text Editors
 1. Text Editor (Plain) - edits text, manages text, and manages files
 2. Integrated Development Environment (IDE) - suite of different software
