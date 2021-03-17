@@ -1,6 +1,6 @@
 # Reading Notes
 #### March 15, 2021
-## Alexis's Growth Mindset
+#### Alexis's Growth Mindset
 
 #### Step 1
 Do not quit. Learn to take a step back, breathe, and reassess the problem if you cannot find an immediate solution.
@@ -49,7 +49,9 @@ fatigue)
 8. Brackets
 9. Sublime Text
 ### Classes of Text Editors
-1. Plain Text Editor
+1. Text Editor (Plain) - edits text, manages text, and manages files
+2. Integrated Development Environment (IDE) - suite of different software
+3. Third-Party Options
 
 #### References
 1. [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
