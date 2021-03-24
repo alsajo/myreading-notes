@@ -1,6 +1,5 @@
 # For and While Loops
 #### *March 23, 2021*
-#### Alexis's Growth Mindset
 
 
 #### Logical Operators
@@ -44,4 +43,4 @@ Ex: i++
 _Do **not** compare yourself to others. You are exactly where you need to be._
 
 #### References
-1. [Growth Mindset](https://acanady.github.io/textbooks/Duckett_Javascript_Jquery.pdf)
+1. [Duckett-Jquery](https://acanady.github.io/textbooks/Duckett_Javascript_Jquery.pdf)
